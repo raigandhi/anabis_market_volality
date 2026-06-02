@@ -1,0 +1,13 @@
+# Virtual Environment
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data & Output (Sangat disarankan untuk di-ignore)
+data/
+eda_output/
+
+# Environment Variables (Kalau nanti kamu pakai file .env untuk simpan password/API key)
+.env
