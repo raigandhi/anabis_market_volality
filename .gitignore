@@ -7,7 +7,7 @@ __pycache__/
 
 # Data & Output (Sangat disarankan untuk di-ignore)
 data/
-eda_output/
+# eda_output/
 
 # Environment Variables (Kalau nanti kamu pakai file .env untuk simpan password/API key)
 .env
